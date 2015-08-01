@@ -1,1 +1,4 @@
 inspirobot_twitter
+
+#ignores auth info
+auth.json
